@@ -4,7 +4,7 @@
 
 A modern Minecraft Mods dependency manager like PDM for Python/npm for Node.js.
 
-![MMDM banner](https://github.com/coke5151/mdm/tree/main/assets/mmdm_banner.png)
+![MMDM banner](https://raw.githubusercontent.com/coke5151/mdm/refs/heads/main/assets/mmdm_banner.png)
 
 </div>
 
